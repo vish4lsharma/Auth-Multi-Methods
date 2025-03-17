@@ -1,16 +1,16 @@
 
 const SocialLogin = () => {
-    // for google auth0
+    //  redirect to backend for google auth0
     const handleGoogleLogin = () => {
         window.location.href = "#";
       };
 
 
     return (
-        
+
       <div className="social-login">
 
-        <button className="social-button">
+        <button className="social-button" onclick={handleGoogleLogin}>   
           <img src="google.svg" alt="Google" className="social-icon" href="#" />
           Google
         </button>
