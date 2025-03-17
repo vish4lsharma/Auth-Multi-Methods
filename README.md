@@ -53,5 +53,5 @@ We welcome contributions! Feel free to open an issue or submit a pull request if
 This project is licensed under the **MIT License**.
 
 ---
-💡 **Happy Coding!** 🎉
+💡 **Happy Coding!** 🎉  
 
