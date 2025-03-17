@@ -1,6 +1,6 @@
 # 🚀 Auth Multi-Methods
 
-![Auth Multi-Methods](https://via.placeholder.com/800x400?text=Authentication+System)
+
 
 ## 📌 Overview
 This project provides a secure authentication system allowing users to log in using **Google**, **GitHub**, or **Phone Number (OTP-based authentication)**. It ensures a seamless and secure login experience.
